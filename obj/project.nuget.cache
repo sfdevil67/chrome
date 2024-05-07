@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "uk32HPanPJx0qJ3y5Be+QjVnc0y3v4oLlFx5YrJENcvJxFfp1HNAjm2XzQuNAFIN8f2A5gqYZuZdiCIQxAOfAA==",
+  "success": true,
+  "projectFilePath": "C:\\ChromeBrowserMacro\\ChromeBrowserMacro\\ChromeBrowserMacro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jhsong0607\\.nuget\\packages\\cef.redist.x64\\114.2.10\\cef.redist.x64.114.2.10.nupkg.sha512",
+    "C:\\Users\\jhsong0607\\.nuget\\packages\\cef.redist.x86\\114.2.10\\cef.redist.x86.114.2.10.nupkg.sha512",
+    "C:\\Users\\jhsong0607\\.nuget\\packages\\cefsharp.common\\114.2.100\\cefsharp.common.114.2.100.nupkg.sha512",
+    "C:\\Users\\jhsong0607\\.nuget\\packages\\cefsharp.winforms\\114.2.100\\cefsharp.winforms.114.2.100.nupkg.sha512",
+    "C:\\Users\\jhsong0607\\.nuget\\packages\\htmlagilitypack\\1.11.51\\htmlagilitypack.1.11.51.nupkg.sha512",
+    "C:\\Users\\jhsong0607\\.nuget\\packages\\ssh.net\\2020.0.2\\ssh.net.2020.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
